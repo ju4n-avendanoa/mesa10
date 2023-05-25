@@ -1,6 +1,6 @@
 # Repositorio del Curso Certified Tech Developer
 
-Este repositorio es utilizado como parte de las actividades del **Curso Certified Tech Developer** impartido por Digital House en colaboración con Mercado Libre y Globant.
+Este repositorio es utilizado como parte de las actividades del curso **Introducción a la informática** impartido por Digital House en colaboración con Mercado Libre y Globant.
 
 El objetivo de este repositorio es permitir a los estudiantes practicar y desarrollar sus habilidades en el ámbito de la programación y desarrollo de software. Aquí encontrarás ejercicios, proyectos y recursos relacionados con el contenido del curso.
 
@@ -14,11 +14,11 @@ El contenido de este repositorio incluye, pero no se limita a:
 
 ## Uso del Repositorio
 
-Los estudiantes matriculados en el **Curso Certified Tech Developer** pueden acceder a este repositorio y utilizarlo como guía, referencia y práctica complementaria a las clases y actividades del curso. Se recomienda clonar este repositorio en sus propias cuentas de GitHub y utilizarlo como base para sus trabajos.
+Los estudiantes matriculados en el curso **Introducción a la informática** pueden acceder a este repositorio y utilizarlo como guía, referencia y práctica complementaria a las clases y actividades del curso. Se recomienda clonar este repositorio en sus propias cuentas de GitHub y utilizarlo como base para sus trabajos.
 
 ## Contribuciones
 
-Este repositorio está destinado exclusivamente para los estudiantes y profesores del **Curso Certified Tech Developer**. No se aceptarán contribuciones externas de la comunidad en general.
+Este repositorio está destinado exclusivamente para los estudiantes y profesores del **Introducción a la informática**. No se aceptarán contribuciones externas de la comunidad en general.
 
 ## Agradecimientos
 
